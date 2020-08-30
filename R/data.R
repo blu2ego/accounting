@@ -7,4 +7,4 @@
 #'   \item{subject}{sample accounting package}
 #'   ...
 #' }
-"external_audit_from_biz"
+"sample_accounting"

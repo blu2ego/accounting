@@ -8,5 +8,5 @@
 #'   ...
 #' }
 "sample_accounting"
-"external audit from biz"
-"intenal audit form biz"
+"external_audit_from_biz"
+"intenal_audit_form_biz"

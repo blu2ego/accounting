@@ -9,7 +9,7 @@ usethis::use_data(external, overwrite = TRUE)
 internal <- readRDS("data-raw/internal_audit_from_biz.rds")
 usethis::use_data(internal, overwrite = TRUE)
 
-reviewed <- read.csv("data-raw/review_list.csv")
+reviewed <- readRDS("data-raw/reviewed.rds")
 usethis::use_data(reviewed, overwrite = TRUE)
 
 iacs <- readRDS("data-raw/iacs.rds")

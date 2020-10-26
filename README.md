@@ -12,7 +12,7 @@ Various Sorts of Financial and Non-Financial Data of the Korean Companies for Ac
 
 ## Loading accounting package
 
-   library(accounting)
+    library(accounting)
 
 ## Desciption of Data Included in accounting package
 
